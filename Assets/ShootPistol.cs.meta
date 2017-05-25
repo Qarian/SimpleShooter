@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9147557b46c03645af6eb7408cc69ff
+timeCreated: 1484593712
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {instanceID: 0}
+  - reloadsound: {fileID: 8300000, guid: d442c2c938c08db45b188e2dbe38c462, type: 3}
+  - ammoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
